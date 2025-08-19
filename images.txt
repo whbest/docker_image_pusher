@@ -4,7 +4,6 @@
 ##xhofe/alist:latest
 ##budtmo/docker-android-x86-11.0:latest
 ##budtmo/docker-android-x86-12.0:latest
-##budtmo/docker-android-x86-13.0:latest
-budtmo/docker-android-x86-14.0:latest
+budtmo/docker-android-x86-13.0:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
