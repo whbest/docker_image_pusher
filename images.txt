@@ -2,11 +2,8 @@
 #支持私库
 ##k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 ##xhofe/alist:latest
-budtmo/docker-android:emulator_9.0
-budtmo/docker-android:emulator_10.0
-budtmo/docker-android:emulator_11.0
-budtmo/docker-android:emulator_12.0
-budtmo/docker-android:emulator_13.0
-budtmo/docker-android:emulator_14.0
+mcr.microsoft.com/mssql/server:2022-latest
+mcr.microsoft.com/mssql/server:2019-latest
+mcr.microsoft.com/mssql/server:2017-latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
